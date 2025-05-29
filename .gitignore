@@ -89,6 +89,7 @@ pipenv.lock
 ll_env/
 venv/
 env/
+*.env
 
 # VS Code
 .vscode/
